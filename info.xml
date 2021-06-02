@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/pretest"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="top"
+    android:background="@color/gray1"
+    android:orientation="vertical">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/button18"
+                    android:layout_width="6dp"
+                    android:layout_height="12dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="50dp"
+                    android:background="@drawable/left_arraw" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="20dp"
+                android:text="DiscreteMath is the largest collection of FREE discrete mathematics learning materials for beginners and professionals alike! There are thousands of aspects to help you learn the basics, hone your skills, or just keep up with the latest trends. \n \n  Meet the friendliest community of mathematicians, where everyone helps each other learn and grow. Our community creates new learning materials every day so you can sharpen your skills quickly and efficiently. \n \n  Millions of mathematicians will help you master a myriad of topics and assignments from anywhere in the world, at any time. \n \n  PERSONALIZATION. Content presentation based on your preferences and the most recent trends, based on your progress \n \n  FREE 24 HOUR COMMUNITY SUPPORT. Continuous community support and real-time notifications to make learning programming as easy and enjoyable as possible. \n \n  FREE EXCHANGE OF KNOWLEDGE. Create lessons in your specialty and become a community expert that millions will look up to. Improve your profile and invest in your future step by step\n \n We love reviews. Write what you think of us to info@discretemath.com. \n \n  Facebook: https://www.facebook.com/ discretemath \n \n  Twitter: https://twitter.com/ discretemath \n \n  Google+: https://plus.google.com/+ discretemath \n \n  Web: https://www.discretemath.com\n \n "
+                android:textAlignment="viewStart"
+                android:textSize="12sp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
