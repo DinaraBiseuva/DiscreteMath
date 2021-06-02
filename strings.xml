@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DiscreteMath</string>
+    <string name="Logic">Logic</string>
+    <string name="Statment">Statment</string>
+    <string name="Compound">Compound statements with "and" and "or"</string>
+    <string name="Implication">Implication, double implication and negation</string>
+    <string name="Complicated">Complicated compound statements</string>
+    <string name="Logical">Logical Equivalence. Tautology, Contradiction</string>
+    <string name="Disjunctive">Disjunctive Normal Form (DNF)</string>
+    <string name="Some">Some Basic Logical Equivalences</string>
+    <string name="Logic_st1">A statement -is an ordinary declarative English sentence of fact that can be assigned a truth value;
+    that is, it can be classified as being either true or false (but not both)</string>
+    <string name="Logic_ex1">Examples: Seventeen is an even number statement What are irrational numbers? not statement, because it is not declarative</string>
+    <string name="Logic_numb_questions">3 questions</string>
+    <string name="Logic_question_1">"There are 168 primes less than 1000" is a</string>
+    <string name="Logic_question_2">“Zero is not a negative number” is</string>
+    <string name="Logic_question_3">“x + 1 = 2” is</string>
+    <string name="answer1">statement</string>
+    <string name="answer2">not statement</string>
+    <string name="answer1_2">true</string>
+    <string name="answer2_2">false</string>
+</resources>
